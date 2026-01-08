@@ -1,0 +1,10 @@
+selenium
+undetected-chromedriver
+pandas
+numpy
+scikit-learn
+pyarrow
+matplotlib
+tqdm
+regex
+sentence-transformers
